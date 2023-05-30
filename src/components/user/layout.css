@@ -1,0 +1,28 @@
+.avatar{
+    border-radius: 50%;
+}
+.profile_person{
+    display: flex;
+    align-items: center;
+}
+.profile_person img{
+    height: 50px;
+    width: 50px;
+}
+.profile_person p{
+    font-weight: 600;
+}
+.navbar{
+    background-color: lightgrey;
+    border-bottom: 1px solid black;
+}
+.sidebar{
+    padding: .5rem 1rem;
+    width: 250px;
+    background-color: lightgrey;
+    height: 100vh;
+    position: fixed;
+}
+.sidebar h5{
+    cursor: pointer;
+}

@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+p{
+  margin: 0 !important;
+}
+.register_tag{
+  cursor: pointer;
+  color: #2B6CB0;
+}
+.b50{
+  border-radius: 50%;
+}
+td{
+  padding: .75rem !important;
+}
+.td_content{
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.view_btn {
+  cursor: pointer;
+  background-color: #F12B2C;
+  padding: 4px 7px;
+  color: white;
+  width: 54px;
+  margin-top: 11px;
+  height: 24px;
+  border-radius: 50px;
+  font-size: 10px;
+  line-height: 13px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+}
+.modal-body img{
+  height: 50px;
+  width: 50px;
+}
